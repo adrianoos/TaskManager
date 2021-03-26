@@ -1,2 +1,0 @@
-# TaskManager
-React practice app
